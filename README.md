@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Choimyeonghwan
-- 👀 I’m interested in you
-- 🌱 I’m currently learning you
-- 💞️ I’m looking to collaborate on you
-- 📫 010-6259-8837
-- <strong>명환의 공격력:</strong><img src="https://img.shields.io/badge/Python-2E64FE?style=flat-square&logo=firebase&logoColor=white"/>
-<!---
-CMH5701/CMH5701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 👋 Hi, I’m Choimyeonghwan<br>
+ 👀 열정열정열정맨<br>
+ 🌱 자라나는 새싹 최명환<br>
+ 💞️ 명환몬은 죽지 않아. <br>
+ 📫 skdaks5701@naver.com<br>
+<hr>
+스쿠멋쟁이 37호
+<hr>
+<h2>내가 공부중인 것들:<h2><div><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-ADFF2F?style=for-the-badge&logo=CSS3&logoColor=white">
+  </div>
+  <br>
+  
