@@ -4,7 +4,7 @@
  💞️ 명환몬은 죽지 않아. <br>
  📫 skdaks5701@naver.com<br>
 <hr>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>백백백<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                                                                         백백백
 <hr>
 <h2>내가 공부중인 것들:<h2><div><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge&logo=HTML5&logoColor=white">
