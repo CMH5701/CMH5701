@@ -9,6 +9,7 @@
 <h2>내가 공부중인 것들:<h2><div><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-ADFF2F?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-FFFF33?style=for-the-badge&logo=JavaScript&logoColor=white">
   </div>
   <br>
   
