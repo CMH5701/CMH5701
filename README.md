@@ -1,5 +1,5 @@
  👋 Hi, I’m Choimyeonghwan<br>
- 👀 열정열정열정맨<br>
+ 👀열정맨<br>
  🌱 자라나는 새싹 최명환<br>
  💞️ 명환몬은 죽지 않아. <br>
  📫 skdaks5701@naver.com<br>
