@@ -20,12 +20,3 @@
   <h2> 아기나무</h2><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
  </div>
-
-
-
-
-
-
-
-
-
