@@ -8,7 +8,6 @@
 <hr>
 <div align=center>
 <h2>아기명환</h2>
- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
  </div>
  <div align=center>
