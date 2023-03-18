@@ -2,7 +2,7 @@
  👋 Hi, I’m Choimyeonghwan!!<br>
  👀 나는야 열정맨 :)<br>
  🌱 럭키가이 최명환<br>
- 💞️ 사랑으로 키워주세요 <br>
+ 💞️ 사랑으로 키워주세요!<br>
  📫 skdaks5701@naver.com<br>
 </div>
 <hr>
